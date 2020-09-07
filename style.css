@@ -1,0 +1,11 @@
+.box{
+    height:100px;
+    width:100px;
+    padding:20px;
+    margin:0 50px;
+    display:inline-block;
+    border:1px solid black;
+}
+#get{
+    background-color: red;
+}
